@@ -1,0 +1,7 @@
+{
+    "proyectname": "bot",
+    "version": "1.0.0",
+    "main": "index.js",
+    "token": "process.env.token",
+    "clientID": "clientID"
+}

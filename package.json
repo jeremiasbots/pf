@@ -1,0 +1,28 @@
+{
+  "name": "pf",
+  "version": "1.0.0",
+  "description": "Un CLI APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiasbots/pf.git"
+  },
+  "author": "JeremiasBots#2622",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiasbots/pf/issues"
+  },
+  "homepage": "https://github.com/jeremiasbots/pf#readme",
+  "dependencies": {
+    "bsondb": "^3.0.0",
+    "commander": "^9.4.1",
+    "esm": "^3.2.25",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.5",
+    "npmignore": "^0.3.0",
+    "pfcmd": "^1.0.0"
+  }
+}
